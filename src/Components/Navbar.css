@@ -1,0 +1,51 @@
+/* .nav-item{
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+} */
+/* .navbar{
+    width: 100%;
+} */
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  .carticon{
+    color: white;
+  }
+#pizzaimg{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+}
+@keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+a{
+    color:WHITE;
+    font-size: 16px;
+}
+i{
+    color:white;
+    font-size: 46px;
+    display: flex;
+    justify-content: flex-end;
+}
+.fa{
+    font-size: 46px;
+}
+.nav-link{
+    font-size: 14px;
+}
+/* .navbar{
+  position: sticky;
+  top: 0;
+} */
+
+

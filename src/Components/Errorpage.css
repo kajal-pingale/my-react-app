@@ -1,0 +1,22 @@
+.setStyle2{
+    text-align: center;
+    
+    color: black;
+    background-image: url(../Images/404error.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    
+}
+.gobackbtn{
+    background-color: black;
+    color: white;
+    padding: 3px;
+    border: none;
+    font-size: 14px;
+    border-radius: 2px;
+
+}
+.errorcontent{
+    margin-top: 20px;
+}

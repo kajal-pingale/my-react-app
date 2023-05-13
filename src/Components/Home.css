@@ -1,0 +1,45 @@
+/* body{
+    background-image: url(../Images/backimg.jpg);
+} */
+#homecontent{
+    
+    background-image: url(../Images/pizza3.jpg);
+    min-height: 100vh; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+margin: auto;
+    
+}
+.Imagesection img{
+width: 1000px;
+height: 550px;
+margin-left: 0%;
+
+}
+.insidehomecontent{
+    color: rgb(208, 10, 10);
+ margin-top: 250px;
+ margin-left: 200px;
+ 
+ 
+    
+} 
+.btn{
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.pl-20{
+    color:red;
+    margin-bottom: 5px;
+}
+.olbtn{
+    background-color: red;
+    border-radius: 8px;
+    border: none;
+    padding: 2px;
+}
+.hometitle{
+padding-top: 10px;
+margin-left: 2px;
+}

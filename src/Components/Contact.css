@@ -1,0 +1,152 @@
+.main {
+  width: 900px;
+
+  margin: auto;
+
+  height: 1000px;
+}
+
+.contact {
+  display: flex;
+
+  justify-content: space-around;
+
+  padding-top: 40px;
+
+  /* margin: auto;
+    
+    /* width: 680px; */
+
+  /* width: 900px; */
+
+  padding: 40px 10px;
+
+  /* background-color: mediumseagreen; */
+
+  /* background-color: rgb(55, 129, 88); */
+  background-color: antiquewhite;
+}
+
+.heading {
+  text-align: center;
+
+  /* width: 900px; */
+
+  /* background-color: rgb(55, 129, 88); */
+  background-color: antiquewhite;
+
+  margin: auto;
+
+  padding-top: 10px;
+
+  color:red;
+}
+
+.contactsection {
+  display: flex;
+
+  padding-left: 80px;
+
+  padding-right: 80px;
+}
+
+.formd {
+  display: block;
+
+  flex-direction: column;
+
+  width: 600px;
+
+  padding-left: 80px;
+
+  /* margin-top: 10px; */
+
+  padding-top: 25px;
+
+  font-size: 14px;
+}
+
+/* .left-section{
+    
+       /* padding-top: 60px; */
+
+/* margin: auto;
+
+    padding-left:200px;
+    
+    margin-top: 10px;
+    
+    } */
+
+.inputBox {
+  width: 100%;
+
+  border-radius: 6px;
+font-size: 15px;
+  margin: auto;
+
+  padding: 4px 8px;
+
+  margin-top: 10px;
+
+  cursor: pointer;
+}
+
+.left-section {
+  padding-top: 80px;
+}
+
+.message {
+  padding-left: 100px;
+
+  color:red;
+}
+
+.fas {
+  font-size: 20px;
+
+  border: none;
+
+  padding: 7px 10px;
+
+  border-radius: 100%;
+
+  color: black;
+
+  background-color: white;
+
+  margin-left: 55px;
+
+  margin-bottom: 10px;
+}
+.logoicon{
+  font-size: 30px;
+  margin-left: 58px;
+  margin-bottom: 8px;
+  /* border-radius: 100%; */
+  /* border-color: white; */
+  /* background-color:wheat; */
+  padding: 4px 6px;
+}
+
+h6 {
+  margin-left: 49px;
+
+  color: black;
+
+  font-size: 15px;
+}
+
+.paracontent {
+  color: black;
+
+  font-size: 15px;
+}
+
+.belowpara {
+  font-size: 15px;
+}
+
+button {
+  background-color: rgb(92, 177, 130);
+}

@@ -1,0 +1,81 @@
+.menutitle{
+    text-align: center;
+    margin-top:10px;
+font-weight: bold;
+    
+    color: red;
+}
+.menucontent{
+    text-align: center;
+    font-style: italic;
+
+}
+.Img1{
+    width: 180px;
+    height: 180px;
+}
+.price{
+    color: red;
+    margin-bottom: 2px;
+}
+.section1{
+    width: 1000px;
+    column-gap: 30px;
+    display: grid;
+    margin: auto;
+    row-gap: 25px;
+    grid-template-columns: 8fr 8fr ;
+}
+/* .pizzasection{ */
+/* display: grid;
+    grid-template-columns: 8fr 8fr 8fr 8fr; */
+    
+    /* margin:auto;
+    
+} */
+.titlename{
+    padding-top: 14px;
+}
+.firstimgsection{
+     width: 500px; 
+     
+    
+    
+    display: flex;
+    justify-content:space-around;
+    
+    border: 1px solid white;
+    background-color: antiquewhite;
+}
+.cartbtn{
+    font-size: 14px;
+    color: white;
+    background-color: rgb(12, 9, 9);
+    border: none;
+    border-radius: 4px;
+    /* margin-top: 10px; */
+    padding: 4px;
+    padding: 4px 4px;
+}
+
+.rating {
+	display: flex;
+}
+
+.star {
+	width: 1.2rem;
+	 height: 1.2rem; 
+	position:relative;
+    margin-bottom: 15px;
+
+    
+}
+
+.starEmpty,
+.starFull {
+	font-size: 1.1rem;
+	position: absolute;
+	overflow: hidden;
+	color: rgb(69, 66, 66);
+    
+}
