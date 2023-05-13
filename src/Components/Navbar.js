@@ -67,6 +67,11 @@ const Navbar = () => {
                   CONTACT US
                 </NavLink>
               </li>
+              <li className="nav-item">
+                <NavLink className="nav-link">
+                  Admin Login
+                </NavLink>
+              </li>
               {/* <li className="nav-item"> */}
                 {/* <NavLink className="nav-link"><i className="fa fa-shopping-cart me-auto"></i></NavLink> */}
                 <button
